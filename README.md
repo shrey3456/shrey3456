@@ -6,9 +6,8 @@
 
 - 📚 I have hands-on experience in **MERN Stack Development** and I am exploring the basics of **Python for Machine Learning**.
 
-- 💻 My recent projects include:
-  - **Internship Report**: A detailed report summarizing my work during the summer internship at Izonnet Web Solution. *(Link to the repository can be added here)*
-  - **Other Projects**: *(Feel free to add details or remove this section if not needed)*
+- 💻 My Work Experience:
+  - **Internship Report**: A detailed report summarizing my work during the summer internship at Izonnet Web Solution. *(https://github.com/shrey3456/Summer_Internship-I)*
 
 - 🛠️ Currently working on improving my understanding of **Data Structures**, **Algorithms**, and **Machine Learning Models**.
 
