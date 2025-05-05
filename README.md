@@ -9,7 +9,7 @@
 - 💻 My Work Experience:
   - **Internship Report**: A detailed report summarizing my work during the summer internship at Izonnet Web Solution. *(https://github.com/shrey3456/Summer_Internship-I)*
 
-- 🛠️ Currently working on improving my understanding of **Data Structures**, **Algorithms**, and **Machine Learning Models**.
+- 🛠️ Currently working on improving my understanding of **Data Structures**, **Algorithms**, and **Web Development**.
 
 - 📫 How to reach me: **shrey2859@gmail.com**
 
