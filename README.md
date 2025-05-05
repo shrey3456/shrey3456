@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently pursuing a **Bachelor of Technology in Information Technology** at **Charotar University of Science and Technology** (6th Semester).
 
-- 📚 I have hands-on experience in **MERN Stack Development** and I am exploring the basics of **Python for Machine Learning**.
+- 📚 I have hands-on experience in **MERN Stack Development** and I am exploring the **Machine Learning**.
 
 - 💻 My Work Experience:
   - **Internship Report**: A detailed report summarizing my work during the summer internship at Izonnet Web Solution. *(https://github.com/shrey3456/Summer_Internship-I)*
